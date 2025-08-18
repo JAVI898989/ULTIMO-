@@ -44,7 +44,6 @@ export default function Index() {
             Fusion Starter - Plantilla completa para desarrollo full-stack
           </p>
         </div>
-        </div>
       </div>
     </div>
   );
