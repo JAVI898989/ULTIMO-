@@ -43,7 +43,7 @@ export default function Index() {
           <p className="text-gray-500 text-sm">
             Fusion Starter - Plantilla completa para desarrollo full-stack
           </p>
-        </h1>
+        </div>
         </div>
       </div>
     </div>
